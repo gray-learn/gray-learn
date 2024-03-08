@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gray</h1>
+<h1 align="center">Hi there 👋, I'm Gray</h1>
+![](https://komarev.com/ghpvc/?username=gray-learn&color=brightgreen&style=plastic)
+
 - 🔭 I’m currently working on [KnowQuest](https://knowquest.net/)
 
 - 🌱 I’m currently learning **Machine Learning, Cloud Computing**
