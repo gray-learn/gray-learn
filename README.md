@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Gray</h1>
-![](https://komarev.com/ghpvc/?username=gray-learn&color=brightgreen&style=plastic)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gray-learn&label=Profile%20views&color=0e75b6&style=flat" alt="gray-learn" /> </p>
 
 - 🔭 I’m currently working on [KnowQuest](https://knowquest.net/)
 
