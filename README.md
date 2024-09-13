@@ -49,4 +49,10 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gray-learn&hide_rank=true" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gray-learn&layout=compact&langs_count=8&card_width=320&hide_progress=true" />
+</a>
 
